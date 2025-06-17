@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi there, I'm Surajit Dutta! 👋
+About Me
 
-<!--
-**AllGunsBlazing/AllGunsBlazing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on web development projects, focusing on React applications.
 
-Here are some ideas to get you started:
+🌱 I’m currently learning: Advanced React patterns and Node.js backend development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m looking to collaborate on: Open-source projects related to front-end frameworks or small utility tools.
+
+🤔 I’m looking for help with: Optimizing build processes for large React applications.
+
+💬 Ask me about: JavaScript, React, HTML, CSS, Git, or anything related to building engaging user interfaces!
+
+📫 How to reach me: [Your Email Address Here] or connect with me on social media below.
+
+😄 Pronouns: He/Him (You can change this to yours!)
+
+⚡ Fun fact: I love exploring new tech gadgets in my free time!
+
+
+

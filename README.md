@@ -1,6 +1,7 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AllGunsBlazing/AllGunsBlazing/main/banner.png" alt="banner" width="100%" />
+  <img src="![Uploading Screenshot 2025-05-16 at 9.10.28 AM.png…]()
+" alt="banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Surajit Dutta</h1>

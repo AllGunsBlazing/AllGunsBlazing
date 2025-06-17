@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHVmaDlpcHo5YTM1enc5NGEyMm44ZW5haWIzMjJ6NndrZWo5dmNuNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7btZ3T6y3JTmjg4w/giphy.gif" alt="banner" width="100%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3a2F6aDRiemF0ajA1MGJpbGw1NWh2a2k0Z2s1emt5cnBtMHAxNHprMiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/SVCSsoKU5v6ZJLk07n/giphy.gif" alt="banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Surajit Dutta</h1>

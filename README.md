@@ -14,7 +14,7 @@
 ### ⚙️ About Me
 
 - 📚 Learning React.js, Express.js & mastering full-stack workflows   
-- 💡 Love talking about ** Tech, Space, Startups, Philosophy **  
+- 💡 Love talking about Tech, Space, Startups, Philosophy
 - 📬 Reach me at: **[Surajit.dwork@gmail.com](mailto:Surajit.dwork@gmail.com)**  
 
 ---

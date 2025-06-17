@@ -1,13 +1,12 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="![Uploading Screenshot 2025-05-16 at 9.10.28 AM.png…]()
-" alt="banner" width="100%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHVmaDlpcHo5YTM1enc5NGEyMm44ZW5haWIzMjJ6NndrZWo5dmNuNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7btZ3T6y3JTmjg4w/giphy.gif" alt="banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Surajit Dutta</h1>
 
 <p align="center">
-  🔫 Full Stack Developer in Progress • Tech Optimist • Eternal Learner
+  🔫 Full Stack Developer • Tech Optimist • Eternal Learner
 </p>
 
 ---

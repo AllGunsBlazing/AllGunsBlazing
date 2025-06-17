@@ -38,18 +38,3 @@
 </p>
 
 ---
-
-### 📌 Pinned Projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AllGunsBlazing&repo=Trading_Platform&theme=radical)](https://github.com/AllGunsBlazing/Trading_Platform)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AllGunsBlazing&repo=Teacher_Student_Repo&theme=radical)](https://github.com/AllGunsBlazing/Teacher_Student_Repo)
-
----
-
-### 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=AllGunsBlazing&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AllGunsBlazing&theme=radical" width="48%"/>
-</p>
